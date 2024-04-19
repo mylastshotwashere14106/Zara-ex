@@ -1,0 +1,27 @@
+*{
+    background-color:red;
+    margin: 0;
+    padding: 0;
+}
+
+.flex{
+    display: flex;
+}
+
+.space-between{
+    
+}
+
+.ph-100{
+    padding-left: 100px;
+    padding-right:100px;
+}
+
+.pv-50{
+    padding-top:50px;
+    padding-bottom:50px;
+}
+
+.max-width{
+    width:100%;
+}
